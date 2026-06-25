@@ -4,7 +4,7 @@
 
 I am deeply passionate about backend engineering and web developement
 
----
+
 
 ### 🛠️ Tech Stack & Tools
 
@@ -14,13 +14,12 @@ I am deeply passionate about backend engineering and web developement
   <img src="https://skillicons.dev/icons?i=linux,git" alt=" Environment" />
 </p>
 
----
 
 ### 📚 Currently Learning
 
 ⚡ React • TypeScript
 
----
+
 
 ### 💻 What I'm Building
 
@@ -30,13 +29,13 @@ A productivity app utilizing gamification mechanics to improve daily task manage
 <!-- **SaaS Landing Page Engine**  
 A lightweight, highly optimized digital landing page platform for local businesses. -->
 
----
+
 
 ### 📬 How to Reach Me
 
 📫 **Email:** [vladimircatana60@gmail.com](mailto:vladimircatana60@gmail.com)
 
----
+
 
 ### 📈 Profile Insights
 
