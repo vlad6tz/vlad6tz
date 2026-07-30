@@ -23,7 +23,7 @@ I am deeply passionate about backend engineering and web developement
 
 ### 💻 What I'm Building
 
-**Gamified To-Do Application** • _[In Development](https://taskify.fit)_  
+**Gamified To-Do Application** • _[taskify.fit](https://taskify.fit)_  
 A productivity app utilizing gamification mechanics to improve daily task management.
 
 <!-- **SaaS Landing Page Engine**  
@@ -33,7 +33,7 @@ A lightweight, highly optimized digital landing page platform for local business
 
 ### 📬 How to Reach Me
 
-📫 **Email:** [vladimircatana60@gmail.com](mailto:vladimircatana60@gmail.com)
+📫 **Email:** [vlad@taskify.fit](mailto:vlad@taskify.fit)
 
 
 
