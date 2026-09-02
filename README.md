@@ -17,7 +17,7 @@ I am deeply passionate about backend engineering and web developement
 
 ### 📚 Currently Learning
 
-⚡ React • TypeScript
+⚡ Nextjs
 
 
 
@@ -26,9 +26,9 @@ I am deeply passionate about backend engineering and web developement
 **Gamified To-Do Application** • _[taskify.fit](https://taskify.fit)_  
 A productivity app utilizing gamification mechanics to improve daily task management.
 
-<!-- **SaaS Landing Page Engine**  
-A lightweight, highly optimized digital landing page platform for local businesses. -->
-
+**Inthra** • _[inthra.dev](https://inthra.dev)_ 
+                                          
+A local-first identity platform providing authentication and identity claims for local startups and businesses.
 
 
 ### 📬 How to Reach Me
