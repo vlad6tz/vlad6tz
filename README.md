@@ -1,47 +1,39 @@
-<div align="center">
+<div align="left">
 
-# Hi, there 👋 I am Vlad
+# Vlad
 
-I am deeply passionate about backend engineering and web developement
+Backend
 
+### Stack
 
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,golang,mysql,ts,react,tailwind" alt="Tech Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=golang,cs,dotnet,ts,mysql" alt="Tech Stack" />
   <img src="https://i.imgur.com/Kgtyvru.png" style="height: 48px; width: 48px; object-fit: cover; border-radius: 12px; margin: 0; padding: 0;" alt="Dragonfly" />
-  <img src="https://skillicons.dev/icons?i=linux,git" alt=" Environment" />
 </p>
 
 
-### 📚 Currently Learning
-
-⚡ Nextjs
-
+### Learning
+<img src="https://skillicons.dev/icons?i=c" alt="C" />
 
 
-### 💻 What I'm Building
+
+### What I'm Building
 
 **Gamified To-Do Application** • _[taskify.fit](https://taskify.fit)_  
-A productivity app utilizing gamification mechanics to improve daily task management.
 
 **Inthra** • _[inthra.dev](https://inthra.dev)_ 
-                                          
-A local-first identity platform providing authentication and identity claims for local startups and businesses.
+                                        
+### Contact
 
-
-### 📬 How to Reach Me
-
-📫 **Email:** [vlad@taskify.fit](mailto:vlad@taskify.fit)
+**Email:** [vlad@taskify.fit](mailto:vlad@taskify.fit)
 
 
 
-### 📈 Profile Insights
+### Profile Insights
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlad6tz&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-👁️ **Profile Views**  
+**Profile Views**  
 ![Views](https://komarev.com/ghpvc/?username=vlad6tz&color=blue&style=flat-square)
 
 </div>
